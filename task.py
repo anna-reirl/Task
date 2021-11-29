@@ -103,16 +103,3 @@
 #         cnt += 1
 #         maxs = max(maxs, a[i] + a[i + 1] + a[i + 2])
 # print(cnt, maxs)
- 
-
-
-
-
-
-
-
-
-
-
-
-
